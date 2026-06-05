@@ -14,7 +14,7 @@ A C++ console-based Hospital Management System for managing patient records, app
 2. Object-Oriented Programming (OOP)
 3. Classes and Objects
 4. Functions
-5. Arrays / Structures
+5. Arrays
 6. Conditional Statements
 7. Loops
 
