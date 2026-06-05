@@ -20,7 +20,7 @@ class Patient
         cin.ignore();
         cout<<"Enter Gender : ";
         getline(cin , gender);
-        cout<<"Enter department to consult : ";
+        cout<<"Enter department to consult (e.g., Cardiology, Neurology, Orthopedics, Pediatrics, General Medicine, Surgery, Emergency) : ";
         getline(cin , dept);
     }
 
